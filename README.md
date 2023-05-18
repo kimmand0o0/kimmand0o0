@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmand0o0)](https://solved.ac/kimmand0o0)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmand0o0&layout=compact)](https://github.com/kimmand0o0/github-readme-stats)
