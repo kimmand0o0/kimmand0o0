@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kimmand0o0/kimmand0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20I'm%20kimmandoo&fontSize=90)
 
 
@@ -34,3 +32,5 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmand0o0)](https://solved.ac/kimmand0o0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmand0o0&layout=compact)](https://github.com/kimmand0o0/github-readme-stats)
+  
+  </div>
