@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=EFE7DB&height=300&section=header&text=Hi!%20I'm%20kimmandoo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=D6C6B6&height=300&section=header&text=KimMandoo's%20Github&fontSize=30&desc=😆Hello!%20저는%20풀스택%20개발자가%20되기%20위해%20공부중인%20김혜란입니다.📚)
 <div align=center>
 
 
