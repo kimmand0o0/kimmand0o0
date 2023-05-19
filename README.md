@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=D6C6B6&height=300&section=header&text=KimMandoo's%20Github&fontSize=30&desc=😆Hello!%20저는%20풀스택%20개발자가%20되기%20위해%20공부중인%20김혜란입니다.📚)
-<!-- <div align=center> -->
+<div align=center>
 
 
   <h3> ✍️ SKILL </h3>
