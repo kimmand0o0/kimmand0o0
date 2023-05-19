@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <h3> ✏️ Studying </h3>
   <img src="https://img.shields.io/badge/TypeScipt-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Reack-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
   
 <!-- 백준 티어 카드인데.. 어케 쓰는 지 아직 모르겠음 
 [![Solved.ac
