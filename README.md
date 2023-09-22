@@ -12,13 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://mand0o0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat&logo=bloglovin&logoColor=ffffff"/></a> 
-<a href="https://www.instagram.com/maeran2" target="_blank"><img src="https://img.shields.io/badge/maeran2-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a> 
-<img src="https://img.shields.io/badge/yuwang0130@gmail.com-000000?style=flat&logo=gmail&logoColor=#ffffff"/>
+<div>
+<seciton>
+  <a href="https://mand0o0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat&logo=bloglovin&logoColor=ffffff"/></a> 
+  <a href="https://www.instagram.com/maeran2" target="_blank"><img src="https://img.shields.io/badge/maeran2-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a> 
+  <img src="https://img.shields.io/badge/yuwang0130@gmail.com-000000?style=flat&logo=gmail&logoColor=#ffffff"/>
+</section>
+<section>
+  <h3>🌱 안녕하세요, 새싹 개발자 <strong>김혜란</strong> 입니다. 🌱</h3>
+  <h5><strong>Full stack developer</strong></h5>
+  <br />
+</section>
 <br />
-<p>🌱 안녕하세요, 새싹 개발자 김혜란입니다.</p>
 <br />
-<sapn> ✍️ SKILL </sapn>
+<sapn> 🛠 SKILL </sapn>
 <section>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/NodeJs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
@@ -45,7 +52,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=nestjs&logoColor=white"/>
   </section>
   <br />
-  <sapn> 🛠 Tools </sapn>
+  <sapn> 💪 Tools </sapn>
   <section>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
