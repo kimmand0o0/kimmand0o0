@@ -13,13 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=D6C6B6&height=300&section=header&text=KimMandoo's%20Github&fontSize=30&desc=😆Hello!%20저는%20풀스택%20개발자가%20되기%20위해%20공부중인%20김혜란입니다.📚)
-<div align=center>
+<div align=start>
 
-
+<h1 >안녕하세요, 김혜란 입니다.</h1>
+<a href="https://mand0o0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat&logo=bloglovin&logoColor=ffffff"/></a> 
+<a href="https://www.instagram.com/maeran2" target="_blank"><img src="https://img.shields.io/badge/maeran2-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a> 
+<img src="https://img.shields.io/badge/yuwang0130@gmail.com-000000?style=flat&logo=gmail&logoColor=#ffffff"/>
+<br />
+<br />
+<br />
   <h3> ✍️ SKILL </h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/NodeJs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
 <br />
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
@@ -30,12 +36,19 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   
+  
   <br />
   <br />
   <h3> ✏️ Studying </h3>
   <img src="https://img.shields.io/badge/TypeScipt-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+
+  <br />
+  <br />
+  <br />
+  <br />
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmand0o0&show_icons=true&theme=radical)
   
 <!-- 백준 티어 카드인데.. 어케 쓰는 지 아직 모르겠음 
 [![Solved.ac
@@ -45,4 +58,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmand0o0&layout=compact)](https://github.com/kimmand0o0/github-readme-stats) -->
  
   
-<!--   </div> -->
+</div> 
