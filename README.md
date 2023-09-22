@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 
 <br />
-  <sapn> ✍️ SKILL </sapn>
+<sapn> ✍️ SKILL </sapn>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/NodeJs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
