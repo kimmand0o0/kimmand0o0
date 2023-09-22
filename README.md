@@ -12,17 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align=start>
-
-<h2 >안녕하세요, 김혜란 입니다.</h2>
 <a href="https://mand0o0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-000000?style=flat&logo=bloglovin&logoColor=ffffff"/></a> 
 <a href="https://www.instagram.com/maeran2" target="_blank"><img src="https://img.shields.io/badge/maeran2-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a> 
 <img src="https://img.shields.io/badge/yuwang0130@gmail.com-000000?style=flat&logo=gmail&logoColor=#ffffff"/>
 <br />
 
 <br />
-  <h4> ✍️ SKILL </h4>
+  <sapn> ✍️ SKILL </sapn>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/NodeJs-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
@@ -39,13 +35,13 @@ Here are some ideas to get you started:
   
   <br />
   <br />
-  <h4> ✏️ Studying </h4>
+  <sapn> ✏️ Studying </sapn>
   <img src="https://img.shields.io/badge/TypeScipt-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=nestjs&logoColor=white"/>
 
   <br />
   <br />
-  <h4> 🛠 Tools </h4>
+  <sapn> 🛠 Tools </sapn>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
@@ -58,12 +54,6 @@ Here are some ideas to get you started:
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmand0o0&show_icons=true&theme=swift)
   
-<!-- 백준 티어 카드인데.. 어케 쓰는 지 아직 모르겠음 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimmand0o0)](https://solved.ac/kimmand0o0)
- -->
-<!--  내 깃허브에서 많이 쓰인 언어 목록 보여주는 것 같음 나중에 써보기
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmand0o0&layout=compact)](https://github.com/kimmand0o0/github-readme-stats) -->
- 
+
   
 </div> 
