@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <br />
   <br />
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmand0o0&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmand0o0&show_icons=true&theme=swift)
   
 <!-- 백준 티어 카드인데.. 어케 쓰는 지 아직 모르겠음 
 [![Solved.ac
