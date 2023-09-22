@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/maeran2" target="_blank"><img src="https://img.shields.io/badge/maeran2-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a> 
 <img src="https://img.shields.io/badge/yuwang0130@gmail.com-000000?style=flat&logo=gmail&logoColor=#ffffff"/>
 <br />
-
+<p>🌱 안녕하세요, 새싹 개발자 김혜란입니다.</p>
 <br />
 <sapn> ✍️ SKILL </sapn>
 <section>
