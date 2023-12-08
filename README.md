@@ -50,15 +50,20 @@ Here are some ideas to get you started:
   <section>
     <img src="https://img.shields.io/badge/TypeScipt-3178C6?style=flat&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=nestjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>  
+    <br />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Sonarqube-4E9BCD?style=flat&logo=sonarqube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/> 
   </section>
   <br />
   <sapn> 💪 Tools </sapn>
   <section>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
   </section>
   <br />
   <br /> 
