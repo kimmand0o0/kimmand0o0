@@ -49,7 +49,8 @@ Here are some ideas to get you started:
   <sapn> ✏️ Studying </sapn>
   <section>
     <img src="https://img.shields.io/badge/TypeScipt-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>  
   </section>
   <br />
   <sapn> 💪 Tools </sapn>
