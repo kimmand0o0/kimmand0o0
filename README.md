@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 </section>
 <section>
   <h3>🌱 Hi, I'm Haeran, a sprout developer. 🌱</h3>
-  <h4><strong>Full stack developer</strong></h4>
+  <section><strong>Full stack developer</strong></section>
+  <br />
   <br />
   <p>
     <span>
