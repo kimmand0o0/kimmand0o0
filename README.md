@@ -19,9 +19,26 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/maeran.dev.u@gmail.com-000000?style=flat&logo=gmail&logoColor=#ffffff"/>
 </section>
 <section>
-  <h3>🌱 안녕하세요, 새싹 개발자 <strong>김혜란</strong> 입니다. 🌱</h3>
-  <h5><strong>Full stack developer</strong></h5>
+  <h3>🌱 Hi, I'm Haeran, a sprout developer. 🌱</h3>
+  <h4><strong>Full stack developer</strong></h4>
   <br />
+  <p>
+    <span>
+      I will develop it until I get dementia.
+    </span>
+    <br />
+    <br />
+    <span>I'm very interested in productivity, and I'm deeply interested in making the world more convenient and colorful.</span>
+    <br />
+    <br />
+    <span>
+      The sprouts look weak, but we don't know what they'll look like in the future.
+    </span>
+    <br />
+    <span>
+      Please look forward to what kind of developer I will grow into.
+    </span>
+  </p>
 </section>
 <br />
 <br />
@@ -51,6 +68,11 @@ Here are some ideas to get you started:
 </section> 
   <br />
   <sapn> ✏️ Studying </sapn>
+  <section>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
+  </section>
   <section>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
