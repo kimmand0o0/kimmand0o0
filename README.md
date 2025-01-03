@@ -26,7 +26,7 @@ _I strive to create productive things to make life easier._
 
 > _2024.03 ~  : Department of Computer Science, Korea National Open University_
 > 
-> _2024.02 ~  : Software Engineer (Frontend/Full stack), Jakga_
+> _2024.02 ~ 2024.12 : Software Engineer (Frontend/Full stack), Jakga_
 > 
 > _2023.04 ~ 2023.10 : BootCamp Code States (React)_
 > 
