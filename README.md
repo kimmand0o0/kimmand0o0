@@ -24,6 +24,8 @@ _I strive to create productive things to make life easier._
 
 ### 💼 _Career_
 
+> _2024.12 ~  : BootCamp likelion frontplus (Next.js + TypeScript)_
+> 
 > _2024.03 ~  : Department of Computer Science, Korea National Open University_
 > 
 > _2024.02 ~ 2024.12 : Software Engineer (Frontend/Full stack), Jakga_
