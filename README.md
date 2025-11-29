@@ -25,7 +25,7 @@ _I strive to create productive things to make life easier._
 ### 💼 _Career_
 
 
-> _2025.07 ~ : Bunkerkids (Product developer)_
+> _2025.07 ~ : Product developer (React, FastAPI, LLM, GCP, Claude code, Gemini cli, Codex), Bunkerkids_
 > 
 > _2024.12 ~ 2025.03 : BootCamp likelion frontplus (Next.js + TypeScript)_
 > 
