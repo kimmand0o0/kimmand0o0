@@ -23,7 +23,10 @@ _I strive to create productive things to make life easier._
 <hr/>
 
 ### 💼 _Career_
- 
+
+
+> _2025.07 ~ : Bunkerkids (Product developer)_
+> 
 > _2024.12 ~ 2025.03 : BootCamp likelion frontplus (Next.js + TypeScript)_
 > 
 > _2024.02 ~ 2024.12 : Software Engineer (Frontend/Full stack), Jakga_
